@@ -6,5 +6,4 @@ If you'd like to see some of my projects, check out my itch.io:
 
 https://pineapple3114.itch.io
 
-<img src="https://github-stats-blush-five.vercel.app/api/top-langs/?username=Ceichert31&theme=transparent&layout=compact&hide_border=true">
-<a href="https://github-readme-stats.vercel.app"><img align="left" src="https://github-stats-blush-five.vercel.app/api?username=Ceichert31&show_icons=true&theme=transparent&hide_border=true&hide_rank=true"/></a>
+<img src="https://github-stats-blush-five.vercel.app/api/top-langs/?username=Ceichert31&theme=transparent&layout=compact&hide_border=true"> <a href="https://github-readme-stats.vercel.app"><img align="left" src="https://github-stats-blush-five.vercel.app/api?username=Ceichert31&show_icons=true&theme=transparent&hide_border=true&hide_rank=true"/></a>
