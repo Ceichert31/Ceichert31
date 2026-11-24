@@ -1,6 +1,6 @@
 # Christopher Eichert
 
-I'm a third-year Game Programming major at Champlain College and a software developer at the Leahy Center. I love making games and working in frameworks like .NET to make cool desktop applications! Working with graphics APIs and optimizing game and software performance is a favorite programming pastime of mine. 
+I'm a fourth-year Game Programming major at Champlain College and a software developer at the Leahy Center. I love making games and working in frameworks like .NET to make cool desktop applications! Working with graphics APIs and optimizing game and software performance is a favorite programming pastime of mine. 
 
 If you'd like to see some of my projects, check out my [website](https://christophereichert.com/).
 
